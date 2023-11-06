@@ -14,7 +14,7 @@ The biggest sector for FDI projects in 2022 was software and IT services, up 8% 
 
 ## Overview
 
-This case study delves into the dynamic landscape of initiating a Greenfield Software Project, starting from a blank canvas and culminating in a cutting-edge software solution. It offers a comprehensive exploration of project management lifecycle with a modern approach augmented by generative AI. Through this comparative analysis, we uncover the synergies and transformative potential that arise from harnessing AI-driven insights in software development.
+This case study explores the dynamic process of launching a Greenfield Software Project, beginning with a blank canvas and concluding with an innovative software solution. It provides an in-depth examination of the project management lifecycle, incorporating a contemporary approach enhanced by generative AI. Through this comparative analysis, the study reveals the synergies and transformative possibilities that emerge from utilizing AI-driven insights in software development.
 
 The current study relies on LOC (Lines of Code) estimation as a method for quantifying the size and complexity of the software being developed. LOC estimation involves counting the number of lines of code in a software project, which provides a metric for understanding the scale and scope of the codebase. This estimation method is commonly used in software development projects to help plan resources, estimate project timelines, and evaluate the overall complexity of the code. Additionally, it can serve as a basis for making informed decisions regarding project management, resource allocation, and budgeting.
 
@@ -98,7 +98,7 @@ In the book, Fred Brooks discusses the complexities of software development and 
 
 Relying solely on Lines of Code (LoC) can be misleading due to its susceptibility to variations in coding style, documentation practices, and the presence of dead code. Instead, it's advisable to utilize a related metric such as Non Comment Source Statements (NCSS). NCSS quantifies the number of executable statements within the code, providing a more accurate measure of functionality. This approach ensures that metrics remain comparable and deliver meaningful insights into the software development process.
 
-In this case study, we explore the efficiency of generative AI in not only automating the generation of comments and documentation but also in producing executable code segments. This extended functionality demonstrates the potential of generative AI to significantly impact software development processes. By seamlessly incorporating generative AI, we aim to assess its effectiveness in streamlining code production and documentation within our specific context.
+In this case study, the efficiency of generative AI is examined in automating the generation of comments and documentation, as well as in producing executable code segments. This expanded functionality illustrates the potential of generative AI to have a significant impact on software development processes. By integrating generative AI seamlessly, the goal is to evaluate its effectiveness in streamlining code production and documentation within this specific context.
 
 ### Enhancing Efficiency
 
