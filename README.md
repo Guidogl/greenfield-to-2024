@@ -18,7 +18,7 @@ This case study explores the dynamic process of launching a Greenfield Software 
 
 The current study relies on LoC (Lines of Code) estimation as a method for quantifying the size and complexity of the software being developed. LoC estimation involves counting the number of lines of code in a software project, which provides a metric for understanding the scale and scope of the codebase. This estimation method is commonly used in software development projects to help plan resources, estimate project timelines, and evaluate the overall complexity of the code. Additionally, it can serve as a basis for making informed decisions regarding project management, resource allocation, and budgeting.
 
-Estimating project size using the metric of "Lines of Code" (LoC) is one of the many techniques employed in software engineering for project size estimation. However, it is important to note that LoC-based estimation has its limitations and is not considered as accurate or reliable as other estimation methods. Despite this, it is still used in certain contexts.
+Estimating project size using the metric of LoC is one of the many techniques employed in software engineering for project size estimation. However, it is important to note that LoC-based estimation has its limitations and is not considered as accurate or reliable as other estimation methods. Despite this, it is still used in certain contexts.
 
 ## Table of Contents
 
@@ -94,7 +94,7 @@ It's important to note that while generative AI can be a valuable tool in softwa
 
 ### "The Mythical Man-Month" Perspective
 
-In the "The Mythical Man-Month" book, Fred Brooks discusses the complexities of software development and highlights the challenges of estimating productivity in terms of lines of code. He also asserts that, regardless of the chosen programming language, a professional developer will write an average of 10 lines of code (LoC) per day. While the book was first published in 1975 and the development process has evolved significantly since then, other sources suggest that professional developers now write about 100 lines of code a day.
+In the "The Mythical Man-Month" book, Fred Brooks discusses the complexities of software development and highlights the challenges of estimating productivity in terms of lines of code. He also asserts that, regardless of the chosen programming language, a professional developer will write an average of 10 lines of code (LoC) per day. While the book was first published in 1975 and the development process has evolved significantly since then, other sources suggest that professional developers now write about 100 lines of code (LoC) per day.
 
 Relying solely on Lines of Code (LoC) can be misleading due to its susceptibility to variations in coding style, documentation practices, and the presence of dead code. Instead, it's advisable to utilize a related metric such as Non Comment Source Statements (NCSS). NCSS quantifies the number of executable statements within the code, providing a more accurate measure of functionality. This approach ensures that metrics remain comparable and deliver meaningful insights into the software development process.
 
