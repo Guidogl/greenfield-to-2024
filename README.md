@@ -108,7 +108,7 @@ The effectiveness and efficiency of using generative AI as a developer in a soft
 
 The methodology involves two distinct phases: an AI-driven development phase where generative AI automatically generates code snippets, and a human review phase where human developers evaluate the AI-generated code for accuracy, coherence, and adherence to coding standards.
 
-
+![AI reviewer](https://github.com/Guidogl/greenfield-to-2024/assets/6173458/421139c4-55b9-41b5-b400-5f53193027bd)
 
 ## Comparison
 
