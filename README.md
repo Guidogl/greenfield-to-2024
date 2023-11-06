@@ -1,5 +1,17 @@
 # Greenfield Project Case Study - A Generative AI Perspective
 
+Foreign direct investment (FDI) into Europe stalled in 2022, rising only 1% compared with 2021, and remains 7% lower than in 2019, just before the COVID-19 pandemic hit, according to the annual EY European Attractiveness Survey 2023.
+
+...
+
+Throughout 2022, businesses around the world announced 5,962 greenfield and expansion projects in 44 European countries, compared with 5,877 in 2021 – a year-on-year increase of just 1%, compared with 5% growth in 2021. Investment remains 10% lower than its peak in 2017.
+
+...
+
+The biggest sector for FDI projects in 2022 was software and IT services, up 8% – double the rate of growth in 2021 – and accounting for 20% of total projects. It was followed by business services and professional services, up 27%. However, only 33% of respondents plan to increase their investment in manufacturing. Encouragingly, 64% of executive respondents expect to increase their European footprint in R&D over the next three years.
+
+The full report can be accessed [here](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
+
 ## Overview
 
 This case study delves into the dynamic landscape of initiating a Greenfield Software Project, starting from a blank canvas and culminating in a cutting-edge software solution. It offers a comprehensive exploration of project management lifecycle with a modern approach augmented by generative AI. Through this comparative analysis, we uncover the synergies and transformative potential that arise from harnessing AI-driven insights in software development.
