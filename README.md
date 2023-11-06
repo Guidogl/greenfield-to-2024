@@ -10,7 +10,7 @@ Throughout 2022, businesses around the world announced 5,962 greenfield and expa
 
 The biggest sector for FDI projects in 2022 was software and IT services, up 8% – double the rate of growth in 2021 – and accounting for 20% of total projects. It was followed by business services and professional services, up 27%. However, only 33% of respondents plan to increase their investment in manufacturing. Encouragingly, 64% of executive respondents expect to increase their European footprint in R&D over the next three years.
 
-The full report can be accessed <a href="[https://www.w3schools.com](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey)" target="_blank">here</a>.
+The full report can be accessed <a href="https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey" target="_blank">here</a>.
 
 ## Overview
 
