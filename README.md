@@ -120,7 +120,7 @@ Summarize the key findings of the case study. Include relevant data, insights, a
 
 ## References 
 
-EY’s 2023 Europe Attractiveness survey. [Link](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
-How many developers do you need? [Link](https://www.amazingcto.com/how-many-developers-do-you-need/).
-Salesforce co-founder, chairman, and CEO Marc Benioff quote. [Link](https://finance.yahoo.com/news/salesforce-ceo-marc-benioff-the-ai-wave-will-be-the-biggest-that-anyone-has-ever-seen-163523992.html).
-How much computer code has been written? [Link](https://medium.com/modern-stack/how-much-computer-code-has-been-written-c8c03100f459).
+- EY’s 2023 Europe Attractiveness survey. [Link](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
+- How many developers do you need? [Link](https://www.amazingcto.com/how-many-developers-do-you-need/).
+- Salesforce co-founder, chairman, and CEO Marc Benioff quote. [Link](https://finance.yahoo.com/news/salesforce-ceo-marc-benioff-the-ai-wave-will-be-the-biggest-that-anyone-has-ever-seen-163523992.html).
+- How much computer code has been written? [Link](https://medium.com/modern-stack/how-much-computer-code-has-been-written-c8c03100f459).
