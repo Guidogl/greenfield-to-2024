@@ -10,11 +10,15 @@ Throughout 2022, businesses around the world announced 5,962 greenfield and expa
 
 The biggest sector for FDI projects in 2022 was software and IT services, up 8% – double the rate of growth in 2021 – and accounting for 20% of total projects. It was followed by business services and professional services, up 27%. However, only 33% of respondents plan to increase their investment in manufacturing. Encouragingly, 64% of executive respondents expect to increase their European footprint in R&D over the next three years.
 
-The full report can be accessed [here](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
+The full report can be accessed [here](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey){:target="_blank"}.
 
 ## Overview
 
 This case study delves into the dynamic landscape of initiating a Greenfield Software Project, starting from a blank canvas and culminating in a cutting-edge software solution. It offers a comprehensive exploration of project management lifecycle with a modern approach augmented by generative AI. Through this comparative analysis, we uncover the synergies and transformative potential that arise from harnessing AI-driven insights in software development.
+
+The current study relies on LOC (Lines of Code) estimation as a method for quantifying the size and complexity of the software being developed. LOC estimation involves counting the number of lines of code in a software project, which provides a metric for understanding the scale and scope of the codebase. This estimation method is commonly used in software development projects to help plan resources, estimate project timelines, and evaluate the overall complexity of the code. Additionally, it can serve as a basis for making informed decisions regarding project management, resource allocation, and budgeting.
+
+Estimating project size using the metric of "Lines of Code" (LOC) is one of the many techniques employed in software engineering for project size estimation. However, it is important to note that LOC-based estimation has its limitations and is not considered as accurate or reliable as other estimation methods. Despite this, it is still used in certain contexts.
 
 ## Table of Contents
 
@@ -33,7 +37,7 @@ The lifecycle of a software product in the venture studio typically consists of 
 4. [Product Scale](#lifecycle-4)
 5. [Optimize Product](#lifecycle-5)
 
-[![Lifecycle of a software product](https://www.amazingcto.com/HowManyDevs.png)](https://www.amazingcto.com/how-many-developers-do-you-need/)
+[![Lifecycle of a software product](https://www.amazingcto.com/HowManyDevs.png)](https://www.amazingcto.com/how-many-developers-do-you-need/){:target="_blank"}
 
 <a name="lifecycle-1"></a>
 ### 1. Problem / Solution Fit
@@ -70,7 +74,22 @@ Simultaneously, the majority of developers have been redirected to a new product
 
 ## Future
 
-Outline the specific goals and objectives of the case study. What questions or problems are being addressed?
+"We've seen a lot of exciting waves of technology in our industry — the cloud, social, mobile — but this AI wave is going be the biggest that anyone has ever seen," Salesforce co-founder, chairman, and CEO Marc Benioff said on Yahoo Finance [Live](https://finance.yahoo.com/news/salesforce-ceo-marc-benioff-the-ai-wave-will-be-the-biggest-that-anyone-has-ever-seen-163523992.html){:target="_blank"}.
+
+Generative AI is a technology that can create content in various forms such as text, images, audio, and even synthetic data. This capability is achieved through advanced machine learning algorithms that allow the model to generate new, original content based on patterns it has learned from existing data.
+
+Generative AI can be used in several ways in software development. Some common use cases are:
+
+1. Code generation: Generative AI models can be trained on existing codebases to create new code snippets or even entire programs. This can help speed up the development process by automating repetitive and mundane tasks.
+2. Bug detection and fixing: Using generative AI, developers can train models to detect and fix bugs in code. These models can analyze code patterns and identify potential issues, thus assisting in the debugging process.
+3. Testing and quality assurance: Generative AI models can be used to automatically generate test cases and test data, helping to verify software quality. This can augment the traditional testing methods and reduce the effort involved in writing test cases manually.
+4. User interface design: Generative AI can be used to create user interfaces (UI) based on user requirements and preferences. By training models on existing UI designs, AI can generate new design suggestions or even generate entire UI layouts.
+5. Documentation generation: AI models can be trained to generate documentation for software projects based on code comments, function signatures, and other relevant information. This can save developers time and effort in writing detailed documentation.
+6. Code refactoring: Generative AI can assist in refactoring code by automatically suggesting improvements, optimizations, or restructurings. By analyzing patterns and best practices from existing codebases, AI can generate refactoring suggestions to improve code readability, maintainability, and performance.
+
+It's important to note that while generative AI can be a valuable tool in software development, it is not meant to replace human developers. Rather, it serves as an augmentation to assist developers in automating repetitive tasks, improving efficiency, and enhancing the overall software development process.
+
+Many software developers also take on the role of code reviewers within their development teams. Being a software developer can provide valuable insights and expertise when reviewing code. Developers can leverage their knowledge of programming languages, software architecture, and design principles to provide valuable feedback on code quality, maintainability, and performance.
 
 ## Comparison
 
