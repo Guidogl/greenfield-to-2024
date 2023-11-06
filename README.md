@@ -1,6 +1,8 @@
 # Greenfield Project Case Study - A Generative AI Perspective
 
-Foreign direct investment (FDI) into Europe stalled in 2022, rising only 1% compared with 2021, and remains 7% lower than in 2019, just before the COVID-19 pandemic hit, according to the annual EY European Attractiveness Survey 2023.
+Quote from EY Survey:
+
+"Foreign direct investment (FDI) into Europe stalled in 2022, rising only 1% compared with 2021, and remains 7% lower than in 2019, just before the COVID-19 pandemic hit, according to the annual EY European Attractiveness Survey 2023.
 
 ...
 
@@ -8,9 +10,7 @@ Throughout 2022, businesses around the world announced 5,962 greenfield and expa
 
 ...
 
-The biggest sector for FDI projects in 2022 was software and IT services, up 8% – double the rate of growth in 2021 – and accounting for 20% of total projects. It was followed by business services and professional services, up 27%. However, only 33% of respondents plan to increase their investment in manufacturing. Encouragingly, 64% of executive respondents expect to increase their European footprint in R&D over the next three years.
-
-The full report can be accessed [here](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
+The biggest sector for FDI projects in 2022 was software and IT services, up 8% – double the rate of growth in 2021 – and accounting for 20% of total projects. It was followed by business services and professional services, up 27%. However, only 33% of respondents plan to increase their investment in manufacturing. Encouragingly, 64% of executive respondents expect to increase their European footprint in R&D over the next three years."
 
 ## Overview
 
@@ -26,6 +26,7 @@ Estimating project size using the metric of "Lines of Code" (LOC) is one of the 
 2. [Future](#future)
 3. [Comparison](#comparison)
 4. [Findings](#findings)
+5. [References](#references)
 
 ## Present
 
@@ -37,33 +38,28 @@ The lifecycle of a software product in the venture studio typically consists of 
 4. [Product Scale](#lifecycle-4)
 5. [Optimize Product](#lifecycle-5)
 
-[![Lifecycle of a software product](https://www.amazingcto.com/HowManyDevs.png)](https://www.amazingcto.com/how-many-developers-do-you-need/)
+[![Lifecycle of a software product](https://www.amazingcto.com/HowManyDevs.png)]
 
-<a name="lifecycle-1"></a>
 ### 1. Problem / Solution Fit
 
 Problem/Solution Fit is a critical concept in product development and entrepreneurship. It refers to the alignment between a specific problem faced by a target market and the solution offered by a product or service. While a developer's expertise can be valuable, it's not strictly necessary at this initial phase. Instead, the focus should be on creativity, market research, and brainstorming to come up with a viable and innovative product concept.
 
-<a name="lifecycle-2"></a>
 ### 2. The MVP
 
 A Minimum Viable Product (MVP) is the most basic version of a product that allows you to test its viability in the market with real users. While a developer may not be required in the very early stages of brainstorming and conceptualizing, they become crucial as you progress towards building and launching the MVP.
 
-<a name="lifecycle-3"></a>
 ### 3. Product / Market Fit
 
 Product/Market Fit is the crucial point at which a product or service aligns perfectly with the needs and demands of a specific market segment. It signifies that the offering not only solves a real problem but also does so in a way that resonates with the target audience.
 
 Developers play a pivotal role in achieving Product/Market Fit. Their technical expertise allows them to translate client requirements and feedback into tangible features and functionalities. By participating in client meetings, developers gain direct insights into the client's vision, pain points, and priorities.
 
-<a name="lifecycle-4"></a>
 ### 4. Product Scale
 
 In the product scale phase, the involvement of developers becomes even more critical. Here's a detailed description of why developers are essential during this phase: Optimizing Performance for Growth, Implementing Scalability Solutions, Handling Increased Data Volume, Integrating Advanced Features, Resolving Technical Challenges, Ensuring Security at Scale, Maintaining Code Quality and Standards, Implementing DevOps and Continuous Integration/Delivery (CI/CD), Monitoring Performance and Reliability. 
 
 In summary, developers are indispensable in the product scale phase, ensuring that the product not only accommodates growth but thrives in the face of increased demands and user expectations. Their expertise is instrumental in architecting, optimizing, and maintaining a product that can effectively scale to meet the needs of a growing user base. This increased demand can lead to higher developer salaries and rates, contributing to the overall rise in development costs. Additionally, as the product becomes more complex and requires additional features and optimizations to accommodate growth, more developer resources may be required, further impacting the overall development costs.
 
-<a name="lifecycle-5"></a>
 ### 5. Optimize Product
 
 During this phase, the focus is on refining and fine-tuning the existing product to improve its performance, user experience, and overall efficiency. 
@@ -74,7 +70,7 @@ Simultaneously, the majority of developers have been redirected to a new product
 
 ## Future
 
-"We've seen a lot of exciting waves of technology in our industry — the cloud, social, mobile — but this AI wave is going be the biggest that anyone has ever seen," Salesforce co-founder, chairman, and CEO Marc Benioff said on Yahoo Finance [Live](https://finance.yahoo.com/news/salesforce-ceo-marc-benioff-the-ai-wave-will-be-the-biggest-that-anyone-has-ever-seen-163523992.html){:target="_blank"}.
+"We've seen a lot of exciting waves of technology in our industry — the cloud, social, mobile — but this AI wave is going be the biggest that anyone has ever seen," Salesforce co-founder, chairman, and CEO Marc Benioff said on Yahoo Finance Live.
 
 Generative AI is a technology that can create content in various forms such as text, images, audio, and even synthetic data. This capability is achieved through advanced machine learning algorithms that allow the model to generate new, original content based on patterns it has learned from existing data.
 
@@ -89,6 +85,10 @@ Generative AI can be used in several ways in software development. Some common u
 
 It's important to note that while generative AI can be a valuable tool in software development, it is not meant to replace human developers. Rather, it serves as an augmentation to assist developers in automating repetitive tasks, improving efficiency, and enhancing the overall software development process.
 
+### "The Mythical Man-Month" Perspective
+
+In the book, Fred Brooks discusses the complexities of software development and highlights the challenges of estimating productivity in terms of lines of code. It also qoutes, that typical 
+
 Many software developers also take on the role of code reviewers within their development teams. Being a software developer can provide valuable insights and expertise when reviewing code. Developers can leverage their knowledge of programming languages, software architecture, and design principles to provide valuable feedback on code quality, maintainability, and performance.
 
 ## Comparison
@@ -98,3 +98,9 @@ Explain the research methodology used to conduct the case study. This may includ
 ## Findings
 
 Summarize the key findings of the case study. Include relevant data, insights, and observations.
+
+## References 
+
+EY’s 2023 Europe Attractiveness survey. [Link](https://www.ey.com/en_gl/attractiveness/ey-europe-attractiveness-survey).
+How many developers do you need? [Link](https://www.amazingcto.com/how-many-developers-do-you-need/).
+Salesforce co-founder, chairman, and CEO Marc Benioff quote. [Link](https://finance.yahoo.com/news/salesforce-ceo-marc-benioff-the-ai-wave-will-be-the-biggest-that-anyone-has-ever-seen-163523992.html).
